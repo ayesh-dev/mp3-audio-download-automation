@@ -1,3 +1,8 @@
 top_tracks_with_urls.json
 mp3_downloads/
-
+mp3_downloads_test/
+.env
+cdn_urls.json
+cdn_urls.txt
+__pycache__/
+venv/
